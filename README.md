@@ -75,7 +75,10 @@ Our automated lead-audit product — built for agencies and freelancers who want
 | Pro | $49 |
 | Agency | $99 |
 
-*Product screenshots land in [`assets/screenshots/`](assets/screenshots/) in a follow-up commit.*
+*Product screenshots:*
+
+![LeadsCrawler hero](assets/screenshots/hero.png)
+![LeadsCrawler how it works](assets/screenshots/features.png)
 
 ---
 
